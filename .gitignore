@@ -1,0 +1,17 @@
+# Python / Django
+carrerAgent_Backend/__pycache__/
+carrerAgent_Backend/*.pyc
+carrerAgent_Backend/venv/
+carrerAgent_Backend/backend/.env
+carrerAgent_Backend/db.sqlite3
+carrerAgent_Backend/media/
+
+# Node / React
+carrerAgent_Frontend/node_modules/
+carrerAgent_Frontend/.env
+carrerAgent_Frontend/build/
+
+# General
+.DS_Store
+.vscode/
+.idea/
